@@ -4,6 +4,32 @@
     }
 }
 h1{
+    font-size: 2rem;
     text-align: center;
     color:#7d6d58;
+}
+.header-nav{
+    display: inline;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #f8f8f8;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.logo{
+    width: 20%;
+    height: auto;
+    float:inline-end;
+}
+body{
+    background: linear gradient(to #7d6d58, #e4c98c);
+}
+.menu-icon {
+    color:#7d6d58;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+
 }
