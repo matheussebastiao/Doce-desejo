@@ -1,0 +1,9 @@
+@media only screen and (max-width: 412px) {
+    body {
+        background-color: #fff5de;
+    }
+}
+h1{
+    text-align: center;
+    color:#7d6d58;
+}
